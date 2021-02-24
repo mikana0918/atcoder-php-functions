@@ -13,9 +13,13 @@ fscanf(STDIN, "%s", $s);
 echo ($a+$b+$c)." ".$s."\n";
 
 /**
- * 標準入力
- * 
  * STDIN: 101 => [1, 0, 1]
  */
 $input = fgets(STDIN);
 print_r(str_split($input));
+
+/**
+ * STDIN: 10 100 1 => [10, 100, 1]
+ */
+$input = fgets(STDIN);
+$toArray = explode(' ', trim($input));
