@@ -5,10 +5,7 @@ fscanf(STDIN, "%d", $fifty);
 fscanf(STDIN, "%d", $expected);
 // 全てのお金を使って、$expectedになるまでを試す
 
-//500, 100, 50
-//0 0..2 0..2
-//1 0..2 0..2
-//2 0..2 0..2
+
 
 $evaluate = [];
 $count = 0;
@@ -37,4 +34,3 @@ for($j = 0; $j <=$fiveHundred; $j++) {
   }
 }
 echo $count;
-// print_r($evaluate);
