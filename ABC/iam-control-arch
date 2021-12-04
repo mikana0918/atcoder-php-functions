@@ -1,4 +1,4 @@
-<mxfile modified="2021-12-04T18:57:42.226Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="dbisCmIWBqrPskj87JNP" version="15.9.1" type="github">
+<mxfile modified="2021-12-04T19:02:43.136Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="HRnzjWBbmVS9mhSI2_v4" version="15.9.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1442" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -211,6 +211,12 @@
         </mxCell>
         <mxCell id="-ns3Yv9UTdpa-8iwRRZv-99" value="Channel" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/picons-social/57/54-slack-128.png;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1023.5" y="-618" width="61" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="-ns3Yv9UTdpa-8iwRRZv-108" value="1. Build Message" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=none;position2=0.92;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ns3Yv9UTdpa-8iwRRZv-109" value="2. Open bot chat" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=none;position2=0.92;" vertex="1" parent="1">
+          <mxGeometry x="518" y="-340" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
